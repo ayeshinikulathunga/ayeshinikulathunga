@@ -21,11 +21,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshinikulathunga&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-# 🔥 GitHub Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayeshinikulathunga&theme=dark" alt="GitHub Streak" />
-</div>
-
 # 🏆 My Portfolio
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ayeshinikulathunga&repo=Ayeshini-DS-portfolio&theme=dark)](https://github.com/yourusername/portfolio)
@@ -35,7 +30,7 @@
 | Project | Description | Tech Stack | Demo |
 |---------|-------------|------------|------|
 | [Heart Disease Predictor](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/Disease_Predictor) | ML model for Heart Disease prediction | Python, TensorFlow, Pandas, Streamlit, Joblib | [Live Demo](https://lnkd.in/gvjrEsW3) |
-| [Image Recognition AI](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/Image_Recognition_AI) | Model for Image Recognition | TensorFlow, Pandas, NumPy, Matplotlib 
+| [Image Recognition AI](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/Image_Recognition_AI) | Model for Image Recognition | TensorFlow, Pandas, NumPy, Matplotlib | [Notebook](https://colab.research.google.com/drive/1GEwpQe4p-vpO2uwF7H9BhOS6Y9kaSlVf?usp=sharing)
 
 
 

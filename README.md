@@ -1,11 +1,11 @@
-## Hi there, I'm Ayeshini Kulathunga👋
+# Hi there, I'm Ayeshini Kulathunga👋
 
-# About Me
+## About Me
 - 💬 Ask me about: AI, ML and Data Science
 - ⚡ Fun fact: Love to collect books more than reading
 - 📫 How to reach me: kulathungaayeshini@gmail.com
 
-# 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
@@ -15,17 +15,17 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayeshinikulathunga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeshinikulathunga&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-# 🏆 My Portfolio
+## 🏆 My Portfolio
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ayeshinikulathunga&repo=Ayeshini-DS-portfolio&theme=dark)](https://github.com/yourusername/portfolio)
 
-# 🚀 Projects Inside:
+## 🚀 Projects Inside:
 
 | Project | Description | Tech Stack | Demo |
 |---------|-------------|------------|------|

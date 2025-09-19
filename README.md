@@ -23,7 +23,7 @@
 
 ## 🏆 My Portfolio
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ayeshinikulathunga&repo=Ayeshini-DS-portfolio&theme=dark)](https://github.com/ayeshinikulathunga/portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=ayeshinikulathunga&repo=Ayeshini-DS-portfolio&theme=dark)](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio)
 
 ## 🚀 Projects Inside:
 

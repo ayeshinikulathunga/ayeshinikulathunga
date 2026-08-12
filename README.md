@@ -1,7 +1,7 @@
 # Hi there, I'm Ayeshini Kulathunga👋
 
 ## About Me
-- 💬 Ask me about: AI, ML and Data Science
+- 💬 Ask me about: AI, ML,QA and Data Science
 - ⚡ Fun fact: Love to collect books more than reading
 - 📫 How to reach me: kulathungaayeshini@gmail.com
 

@@ -19,12 +19,12 @@
 
 ## 🚀 Projects Inside:
 
-| Project | Description | Tech Stack | Demo |
-|---------|-------------|------------|------|
-| [SauceDemo](https://github.com/ayeshinikulathunga/SauceDemo-QA-Automation-22020497) | End-to-end web automation testing for the SauceDemo e-commerce app | Python, Selenium, Pytest, WebDriver | |
-| [Heart Disease Predictor](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/Disease_Predictor) | ML model for Heart Disease prediction | Python, TensorFlow, Pandas, Streamlit | |
-| [Image Recognition AI](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/Image_Recognition_AI) | Model for Image Recognition | TensorFlow, Pandas, NumPy, Matplotlib | |
-| [Object Detection with YOLOv8](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/Object_Detection_app) | Real-time object detection model (YOLOv8) for images, video and webcam | Python, YOLOv8 | |
+| Project | Description | Tech Stack | 
+|---------|-------------|------------|
+| [SauceDemo](https://github.com/ayeshinikulathunga/SauceDemo-QA-Automation-22020497) | End-to-end web automation testing for the SauceDemo e-commerce app | Python, Selenium, Pytest, WebDriver | 
+| [Heart Disease Predictor](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/Disease_Predictor) | ML model for Heart Disease prediction | Python, TensorFlow, Pandas, Streamlit | 
+| [Image Recognition AI](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/Image_Recognition_AI) | Model for Image Recognition | TensorFlow, Pandas, NumPy, Matplotlib | 
+| [Object Detection with YOLOv8](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/Object_Detection_app) | Real-time object detection model (YOLOv8) for images, video and webcam | Python, YOLOv8 | 
 
 <!--
 **ayeshinikulathunga/ayeshinikulathunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -29,10 +29,10 @@
 
 | Project | Description | Tech Stack | Demo |
 |---------|-------------|------------|------|
-| [Heart Disease Predictor](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/Disease_Predictor) | ML model for Heart Disease prediction | Python, TensorFlow, Pandas, Streamlit, Joblib | [Live Demo](https://lnkd.in/gvjrEsW3) |
-| [Image Recognition AI](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/Image_Recognition_AI) | Model for Image Recognition | TensorFlow, Pandas, NumPy, Matplotlib | [Notebook](https://colab.research.google.com/drive/1GEwpQe4p-vpO2uwF7H9BhOS6Y9kaSlVf?usp=sharing)
-| [Object Detection with YOLOv8](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/Object_Detection_app) | Real-time object detection model (YOLOv8) for images, video and webcam feed. Includes a custom training pipeline and a Streamlit web app deployment. | Python, Ultralytics (YOLO), OpenCV, NumPy, Matplotlib, Streamlit, pyngrok | [Notebook](https://colab.research.google.com/drive/1t3-5bPi1CiVpiibLiWVNCA0YU38Bb8OJ)|
-
+| [Heart Disease Predictor](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/Disease_Predictor) | ML model for Heart Disease prediction | Python, TensorFlow, Pandas, Streamlit, Joblib | [App](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/Disease_Predictor) |
+| [Image Recognition AI](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/Image_Recognition_AI) | Model for Image Recognition | TensorFlow, Pandas, NumPy, Matplotlib | [Notebook](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/Image_Recognition_AI) |
+| [Object Detection with YOLOv8](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/Object_Detection_app) | Real-time object detection model (YOLOv8) for images, video and webcam feed | Python, YOLOv8, OpenCV, NumPy | [Demo](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/Object_Detection_app) |
+| [SauceDemo](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/SauceDemo) | End-to-end web automation testing for the SauceDemo e-commerce app | Python, Selenium, Pytest, WebDriver | [Automation](https://github.com/ayeshinikulathunga/Ayeshini-DS-portfolio/tree/main/SauceDemo) |
 
 <!--
 **ayeshinikulathunga/ayeshinikulathunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
